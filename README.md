@@ -22,3 +22,4 @@
 + http: ^0.13.5
 
 ## Uso e resultado final:
+![Animação](https://user-images.githubusercontent.com/95777456/190271256-3bae669b-d782-42fc-a5f5-c29a7f1e610f.gif)
